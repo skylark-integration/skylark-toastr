@@ -89,7 +89,11 @@
 define('skylark-toastr/toastr',[
     "skylark-langx/skylark",
     "skylark-langx/langx",
-    "skylark-utils-dom/query"
+    "skylark-domx-query",
+    "skylark-domx-data",
+    "skylark-domx-geom",
+    "skylark-domx-styler",
+    "skylark-domx-eventer"
 ], function (skylark,langx,$) {
     var $container;
     var listener;
