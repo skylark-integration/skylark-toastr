@@ -19,6 +19,13 @@
   "bugs": {
     "url": "https://github.com/skylark-integration/skylark-toastr/issues"
   },
+  "files": [
+    "demos/",
+    "dist/",
+    "src/",
+    "skins/",
+    "thems/",
+  ],  
   "license": "MIT",
   "dependencies": {
     "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master",
